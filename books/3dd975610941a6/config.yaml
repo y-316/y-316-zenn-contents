@@ -1,7 +1,7 @@
 title: "はじめてのMicrosoft 365 & Azure 〜クラウド管理者として最初に読む本〜"
 summary: "Microsoft 365やAzureの運用管理を初めて担当するIT管理者向けの実践的なガイドブック。クラウドサービスの基本概念から日常的な管理業務まで、実務に必要な知識とスキルを体系的に学べます。"
 topics: ["Microsoft365", "Azure", "クラウド管理", "PowerShell", "Microsoft Entra ID"]
-published: true
+published: "limited"
 price: 0 # 有料の場合200〜5000
 # 本に含めるチャプターを順番に並べましょう
 chapters:
